@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mrunal Battise. Not a hardcore programmer but curious about new tech and keen to learn them, I try to apply them and relearn to create something by my own approch.
+- 👋 Hi, I’m Mrunal Battise. Developing my analystical and visulaization skills, curious about new tech and keen to learn them. I try to apply them and relearn to create something by my own approch.
 - 👀 I’m interested in Python, Machine Learning, Neural Networks and Data Visualization.
-- 🌱 I’m currently learning Tableau and SQL.
+- 🌱 I’m currently learning Tableau, SQL, MySQL and DBMS.
 - 💞️ I’m looking to collaborate on projects including cutting edge technologies like Machine Learning models and algorithms, 
 Neural Networks, NLP, Data analysis and visulaization, Image Processing, IOT and many more.
 - 📫 How to reach me - mrunalbattisemb@gmail.com
